@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: "Gotham Medium", sans-serif;
+    font-size: 48px;
+}
+
+#headerwrap {
+    font-family: "Gotham Medium", sans-serif;
+    height: 975px;
+    padding: 0 50px 0 50px;
+    background: url("../img/overlay1.png") no-repeat center;
+    background-attachment: relative;
+    background-position: center center;
+    width: 100%;
+    background-size: 100%;
+    text-align: center;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#headerwrap h1 {
+    margin-top: 350px;
+    color: #ffffff;
+    line-height: 150%;
+}
+
+#headerwrap .btn-warning {
+    margin-top: 290px;
+    padding: 15px 50px;
+    border-radius: 30px;
+    font-size: 16px;
+}
+
+.nav li a {
+    color: #ffffff;
+}
+
+.nav li .contact {
+    border: 1px solid #ffffff;
+}
+
