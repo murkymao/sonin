@@ -58,7 +58,7 @@ body {
 
 .navbar-default {
     background-image: none;
-    background: none !important;
+    background: none;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
